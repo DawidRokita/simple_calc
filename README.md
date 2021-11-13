@@ -1,2 +1,3 @@
 # simple_calc
-Created with CodeSandbox
+
+first svelte created for educational purposes
