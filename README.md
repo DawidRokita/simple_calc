@@ -1,3 +1,3 @@
 # simple_calc
 
-first svelte created for educational purposes
+first svelte app created for educational purposes
